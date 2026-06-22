@@ -1,130 +1,80 @@
+<!-- ===== HEADER · typing animation ===== -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:0077B5&height=200&section=header&text=Harsh%20More&fontSize=60&fontColor=58a6ff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20%7C%20Web3%20%7C%20Blockchain%20Dev&descAlignY=58&descAlign=50&descColor=8b949e" />
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&width=600&height=80&lines=Hey+there!+I'm+Harsh+%F0%9F%91%8B;Building+the+Web3+future+%F0%9F%9A%80;TypeScript+%7C+Node.js+%7C+Solidity+%7C+Next.js)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&pause=1000&color=58A6FF&center=true&vCenter=true&width=560&height=55&lines=Full+Stack+%26+Web3+Developer;Building+for+the+decentralized+web;TypeScript+%E2%80%A2+Node.js+%E2%80%A2+Solidity)](https://github.com/harshmore947)
 
 </div>
 
----
+<br>
 
-## 🧑‍💻 About Me
+<!-- ===== ABOUT ===== -->
+### 👋 Hi, I'm Harsh
 
-```typescript
-const harsh = {
-  name: "Harshvardhan More",
-  location: "India 🇮🇳",
-  role: "Full Stack & Web3 Developer",
-  currentFocus: ["Blockchain", "DeFi", "Scalable APIs"],
-  languages: ["TypeScript", "JavaScript", "C#", "Solidity"],
-  databases: ["MongoDB", "PostgreSQL", "SQLite"],
-  cloudPlatforms: ["Google Cloud", "Render"],
-  askMeAbout: ["Node.js", "Next.js", "Smart Contracts", "Web3"],
-  funFact: "I commit to the blockchain AND to GitHub 🐍",
-};
+Full Stack & Web3 developer from India 🇮🇳, building scalable backends and decentralized applications. I spend most of my time around blockchain, DeFi, and clean API design.
+
+```
+🔭  Currently   →  Web3 & DeFi projects
+🌱  Learning    →  Smart contract security & system design
+💬  Ask me about →  Node.js · Next.js · Solidity · Web3
+📫  Reach me     →  harshmore947@gmail.com
 ```
 
----
+<br>
 
-## 🌐 Connect With Me
+<!-- ===== CONNECT ===== -->
+### 🌐 Connect
 
-<div align="center">
+<p>
+  <a href="https://linkedin.com/in/harshvardhanmore"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:harshmore947@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://github.com/harshmore947"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/></a>
+</p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/harshvardhanmore)
-[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:harshmore947@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/harshmore947)
+<br>
 
-</div>
+<!-- ===== TECH STACK ===== -->
+### 🛠 Tech Stack
 
----
+| | |
+|---|---|
+| **Languages** | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp&logoColor=white) ![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white) |
+| **Backend** | ![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white) |
+| **Web3** | ![Web3.js](https://img.shields.io/badge/Web3.js-F16822?style=flat-square&logo=web3.js&logoColor=white) ![Solidity](https://img.shields.io/badge/Smart_Contracts-363636?style=flat-square&logo=ethereum&logoColor=white) |
+| **Databases** | ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white) |
+| **Cloud** | ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white) ![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black) |
 
-## 💻 Tech Stack
+<br>
 
-**Languages**
-
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
-![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)
-
-**Frameworks & Libraries**
-
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
-![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD)
-
-**Databases & ORM**
-
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
-
-**Cloud & DevOps**
-
-![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
-
----
-
-## 📊 GitHub Stats
+<!-- ===== GITHUB STATS ===== -->
+### 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=harshmore947&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshmore947&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" height="165" />
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=harshmore947&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshmore947&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
 
 </div>
 
-<div align="center">
+<br>
 
-<img src="https://nirzak-streak-stats.vercel.app/?user=harshmore947&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=harshmore947&theme=tokyonight&no-frame=true&no-bg=false&margin-w=6&column=7)
-
-</div>
-
----
-
-## 🐍 My Contributions Get Eaten Alive
-
+<!-- ===== CONTRIBUTION SNAKE · animation ===== -->
 <div align="center">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/harshmore947/harshmore947/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/harshmore947/harshmore947/output/github-contribution-grid-snake.svg" />
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/harshmore947/harshmore947/output/github-contribution-grid-snake.svg" />
+  <img alt="contribution snake animation" src="https://raw.githubusercontent.com/harshmore947/harshmore947/output/github-contribution-grid-snake.svg" />
 </picture>
 
 </div>
 
----
+<br>
 
-## 📈 Contribution Activity
-
+<!-- ===== FOOTER ===== -->
 <div align="center">
 
-[![Harsh's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=harshmore947&bg_color=1a1b27&color=58a6ff&line=0077b5&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<sub>⚡ Thanks for stopping by</sub>
 
-</div>
-
----
-
-<div align="center">
-
-[![](https://visitcount.itsvg.in/api?id=harshmore947&label=Profile%20Views&color=0&icon=5&pretty=true)](https://visitcount.itsvg.in)
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0077B5,50:1a1b27,100:0d1117&height=120&section=footer" />
+<img src="https://komarev.com/ghpvc/?username=harshmore947&style=flat-square&color=58a6ff&label=Profile+Views" alt="Profile Views"/>
 
 </div>
